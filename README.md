@@ -4,9 +4,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [1991-find-the-middle-index-in-array](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1991-find-the-middle-index-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [1991-find-the-middle-index-in-array](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
