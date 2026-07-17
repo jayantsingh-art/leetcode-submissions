@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
@@ -69,10 +70,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
