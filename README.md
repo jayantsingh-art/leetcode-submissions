@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
