@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0041-first-missing-positive) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0904-fruit-into-baskets) |
