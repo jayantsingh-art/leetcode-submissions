@@ -16,7 +16,6 @@ public:
                 ans.push_back(i+1);
             }
         }
-
         return ans;
     }
 };
