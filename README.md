@@ -101,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0645-set-mismatch) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
