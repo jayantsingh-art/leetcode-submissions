@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -107,9 +108,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
