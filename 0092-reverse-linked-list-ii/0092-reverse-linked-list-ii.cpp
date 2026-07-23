@@ -20,9 +20,9 @@ public:
         }
 
         ListNode* curr = prev->next;
-        ListNode* temp = curr;
+        ListNode* temp = curr->next;
 
-        for(int i = 0; i < right-left; i++) {
+        for(int i = 0; i < right - left; i++) {
             temp = curr->next;
             curr->next = temp->next;
             temp->next = prev->next;
