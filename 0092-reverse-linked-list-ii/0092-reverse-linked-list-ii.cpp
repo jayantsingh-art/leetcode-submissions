@@ -20,7 +20,7 @@ public:
         }
 
         ListNode* curr = prev->next;
-        ListNode* temp = curr->next;
+        ListNode* temp = curr;
 
         for(int i = 0; i < right - left; i++) {
             temp = curr->next;
