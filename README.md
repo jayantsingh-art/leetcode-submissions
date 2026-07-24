@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1991-find-the-middle-index-in-array](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1991-find-the-middle-index-in-array) |
 ## Prefix Sum
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Hash Table
 |  |
 | ------- |
