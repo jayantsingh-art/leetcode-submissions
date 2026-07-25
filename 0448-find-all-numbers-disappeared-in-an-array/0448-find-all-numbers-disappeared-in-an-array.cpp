@@ -5,14 +5,13 @@ public:
         vector<int> ans;
 
         for(int i = 0; i < n; i++) {
-            int idx = abs(nums[i]) - 1;
-            if(nums[idx] > 0) {
-                nums[idx] *= -1;
+            while(i != nums[i]-1 && nums[i] != nums[nums[i] - 1]) {
+                swap(nums[i], nums[nums[i]-1]);
             }
         }
 
         for(int i = 0; i < n; i++) {
-            if(nums[i] > 0) {
+            if(i != nums[i]-1) {
                 ans.push_back(i+1);
             }
         }
