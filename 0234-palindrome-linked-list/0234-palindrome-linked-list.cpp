@@ -23,7 +23,9 @@ public:
         ListNode* curr = head;
 
         while(curr && rev) {
-            if(curr->val != rev->val) return false;
+            if(curr->val != rev->val) {
+                return false;
+            }
 
             curr = curr->next;
             rev = rev->next;
@@ -43,6 +45,7 @@ public:
             prev = curr;
             curr = next;
         }
+
         return prev;
     }
 };
