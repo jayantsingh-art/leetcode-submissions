@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Hash Table
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0645-set-mismatch) |
