@@ -6,13 +6,13 @@ public:
 
         for(int i = 0; i < 4; i++) {
             if(mat == target) return true;
-            reverseMatrix(mat);
+            rotate(mat);
         }
 
         return false;
     }
 
-    vector<vector<int>> reverseMatrix(vector<vector<int>>& mat) {
+    vector<vector<int>> rotate(vector<vector<int>>& mat) {
         int m = mat.size();
         int n = mat[0].size();
 
@@ -22,7 +22,7 @@ public:
             }
         }
 
-        for(int i = 0; i < m; i++) {
+        for(int i = 0; i < n; i++) {
             reverse(mat[i].begin(), mat[i].end());
         }
 
