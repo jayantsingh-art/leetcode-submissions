@@ -20,13 +20,14 @@ public:
         }
 
         ListNode* curr = prev->next;
-        ListNode* temp = curr;
+        ListNode* next = curr->next;
 
         for(int i = 0; i < right - left; i++) {
-            temp = curr->next;
-            curr->next = temp->next;
-            temp->next = prev->next;
-            prev->next = temp;
+            curr->next = next->next;
+            next->next = prev->next;
+            prev->next = next;
+
+            next = curr->next;
         }
 
         return dummy.next;
