@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0075-sort-colors) |
+| [0130-surrounded-regions](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0200-number-of-islands) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
+| [0130-surrounded-regions](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0733-flood-fill](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0733-flood-fill) |
@@ -142,15 +144,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0733-flood-fill) |
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
