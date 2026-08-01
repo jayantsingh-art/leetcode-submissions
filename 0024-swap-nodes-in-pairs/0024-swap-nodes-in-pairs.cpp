@@ -20,12 +20,11 @@ public:
             ListNode* second = first->next;
 
             first->next = second->next;
-            second->next = prev->next;
+            second->next = first;
             prev->next = second;
 
             prev = first;
         }
-
         return dummy.next;
     }
 };
