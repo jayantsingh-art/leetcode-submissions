@@ -14,7 +14,7 @@ public:
         ListNode dummy(0);
         dummy.next = head;
         ListNode* prev = &dummy;
-
+        
         for(int i = 1; i < left; i++) {
             prev = prev->next;
         }
@@ -26,7 +26,6 @@ public:
             curr->next = next->next;
             next->next = prev->next;
             prev->next = next;
-
             next = curr->next;
         }
 
