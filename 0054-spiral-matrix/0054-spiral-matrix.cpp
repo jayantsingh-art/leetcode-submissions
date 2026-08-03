@@ -4,7 +4,6 @@ public:
         int m = matrix.size();
         int n = matrix[0].size();
         vector<int> ans;
-
         int startingRow = 0, startingCol = 0;
         int endingRow = m-1, endingCol = n-1;
 
