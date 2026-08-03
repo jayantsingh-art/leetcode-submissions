@@ -5,7 +5,6 @@ public:
         int n = matrix[0].size();
         bool zeroInFirstCol = false;
 
-        // loop for row and column marker
         for(int i = 0; i < m; i++) {
             if(matrix[i][0] == 0) zeroInFirstCol = true;
             for(int j = 1; j < n; j++) {
@@ -22,8 +21,7 @@ public:
                     matrix[i][j] = 0;
                 }
             }
-
-            if(zeroInFirstCol == true) matrix[i][0] = 0;
+            if(zeroInFirstCol) matrix[i][0] = 0;
         }
     }
 };
