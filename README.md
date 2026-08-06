@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1991-find-the-middle-index-in-array](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1991-find-the-middle-index-in-array) |
 ## Prefix Sum
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
+| [1254-number-of-closed-islands](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Hash Table
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -174,12 +177,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
+| [1254-number-of-closed-islands](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 ## Bidirectional Search
 |  |
 | ------- |
