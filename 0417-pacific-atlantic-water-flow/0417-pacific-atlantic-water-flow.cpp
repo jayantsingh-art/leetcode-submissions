@@ -3,9 +3,10 @@ public:
     vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights) {
         int m = heights.size();
         int n = heights[0].size();
-        vector<vector<int>> ans;
-        vector<vector<bool>> pacific(m, vector<bool>(n, false));
-        vector<vector<bool>> atlantic(m, vector<bool>(n, false));
+        vector<vector<int>> ans; 
+
+        vector<vector<bool>> pacific(m, vector<bool>(n, 0));
+        vector<vector<bool>> atlantic(m, vector<bool>(n, 0));
 
         for(int i = 0; i < m; i++) {
             DFS(heights, pacific, i, 0);
