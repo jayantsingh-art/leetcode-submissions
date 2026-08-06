@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0127-word-ladder) |
 | [0268-missing-number](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0645-set-mismatch) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0127-word-ladder) |
 ## Sliding Window
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0695-max-area-of-island) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
