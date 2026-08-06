@@ -22,10 +22,11 @@ public:
                     char original = word[i];
 
                     for(char ch = 'a'; ch <= 'z'; ch++) {
+                        if(ch == original) continue;
+
                         word[i] = ch;
                         if(dict.find(word) != dict.end()) {
                             q.push(word);
-                            // cout << q << endl;
                             dict.erase(word);
                         }
                     }
