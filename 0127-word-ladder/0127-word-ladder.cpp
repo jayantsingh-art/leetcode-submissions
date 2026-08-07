@@ -1,12 +1,10 @@
 class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-        unordered_set<string> dict(wordList.begin(), wordList.end());
+        unordered_set<string> s(wordList.begin(), wordList.end());
         queue<string> q;
         int level = 1;
-
-        if(dict.find(endWord) == dict.end()) return 0;
-
+        if(s.find(endWord) == s.end()) return 0;
         q.push(beginWord);
 
         while(!q.empty()) {
@@ -14,20 +12,16 @@ public:
 
             while(size--) {
                 string word = q.front();
-                q.pop();
-
+                q.pop();   
                 if(word == endWord) return level;
-
                 for(int i = 0; i < word.size(); i++) {
                     char original = word[i];
 
                     for(char ch = 'a'; ch <= 'z'; ch++) {
-                        if(ch == original) continue;
-
                         word[i] = ch;
-                        if(dict.find(word) != dict.end()) {
+                        if(s.find(word) != s.end()) {
                             q.push(word);
-                            dict.erase(word);
+                            s.erase(word);
                         }
                     }
                     word[i] = original;
@@ -35,7 +29,6 @@ public:
             }
             level++;
         }
-
         return 0;
     }
 };
