@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0054-spiral-matrix) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0268-missing-number) |
