@@ -8,7 +8,8 @@ public:
 
             if(target == nums[mid]) {
                 return mid;
-            } else if(nums[low] <= nums[mid]) {
+            } 
+            if(nums[low] <= nums[mid]) {
                 if(target >= nums[low] && target < nums[mid]) {
                     high = mid-1;
                 } else {
