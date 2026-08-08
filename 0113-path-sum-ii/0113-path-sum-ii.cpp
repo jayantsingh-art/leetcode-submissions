@@ -20,13 +20,13 @@ public:
         return ans;
     }
 
-    void DFS(TreeNode* root, int targetSum, vector<int> &path, vector<vector<int>> &ans) {
+    void DFS(TreeNode* root, int targetSum, vector<int>& path, vector<vector<int>>& ans) {
         if(!root) return;
 
         path.push_back(root->val);
+        
         if(!root->left && !root->right && root->val == targetSum) {
             ans.push_back(path);
-            // return;
         }
 
         DFS(root->left, targetSum - root->val, path, ans);
