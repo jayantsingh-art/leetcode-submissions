@@ -12,10 +12,16 @@
 class Solution {
 public:
     bool hasPathSum(TreeNode* root, int targetSum) {
-        if(!root) return false;
+        return(DFS(root, targetSum));
+    }
 
-        if(!root->left && !root->right && root->val == targetSum) return true;
+    bool DFS(TreeNode* root, int targetSum) {
+        if(!root) return 0;
 
-        return hasPathSum(root->left, targetSum - root->val) || hasPathSum(root->right, targetSum - root->val);
+        if(!root->left && !root->right && root->val == targetSum) {
+            return true;
+        }
+
+        return DFS(root->left, targetSum - root->val) || DFS(root->right, targetSum - root->val);
     }
 };
