@@ -22,7 +22,6 @@ public:
         }
 
         grid[i][j] = 0;
-
         return 1 +
             DFS(grid, i+1, j) +
             DFS(grid, i-1, j) +
