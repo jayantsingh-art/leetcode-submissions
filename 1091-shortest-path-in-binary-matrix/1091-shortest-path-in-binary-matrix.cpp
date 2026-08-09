@@ -2,8 +2,8 @@ class Solution {
 public:
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
         int n = grid.size();
-        int ans = 1;
         queue<pair<int, int>> q;
+        int distance = 1;
 
         if(grid[0][0] == 1 || grid[n-1][n-1] == 1) return -1;
 
@@ -11,27 +11,27 @@ public:
         q.push({0, 0});
 
         while(!q.empty()) {
-
             int size = q.size();
 
             while(size--) {
-                auto [x, y] = q.front();
+                auto[x, y] = q.front();
                 q.pop();
-                if(x == n-1 && y == n-1) return ans;
+
+                if(x == n-1 && y == n-1) return distance;
 
                 for(auto dir : directions) {
-                    int newRow = x + dir[0];
-                    int newCol = y + dir[1];
+                    int i = x + dir[0];
+                    int j = y + dir[1];
 
-                    if(newRow >= 0 && newCol >= 0 && newRow < n && newCol < n && grid[newRow][newCol] == 0) {
-                        q.push({newRow, newCol});
-                        grid[newRow][newCol] = 1;
+                    if(i >= 0 && j >= 0 && i < n && j < n && grid[i][j] == 0) {
+                        grid[i][j] = 1;
+                        q.push({i, j});
                     }
                 }
             }
-            ans++;
-            // cout << ans << endl;
+            distance++;
         }
+
         return -1;
     }
 };
