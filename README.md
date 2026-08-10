@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0268-missing-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0127-word-ladder) |
 | [0268-missing-number](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0904-fruit-into-baskets) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0645-set-mismatch) |
 ## Greedy
 |  |
@@ -229,4 +232,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0113-path-sum-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
