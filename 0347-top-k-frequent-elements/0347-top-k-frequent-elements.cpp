@@ -11,9 +11,8 @@ public:
 
         for(auto it : mp) {
             pq.push({it.second, it.first});
-            if(pq.size() > k) {
-                pq.pop();
-            }
+
+            if(pq.size() > k) pq.pop();
         }
 
         while(!pq.empty()) {
