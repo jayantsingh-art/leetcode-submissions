@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0904-fruit-into-baskets) |
+| [0973-k-closest-points-to-origin](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1020-number-of-enclaves) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0268-missing-number) |
+| [0973-k-closest-points-to-origin](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0645-set-mismatch) |
+| [0973-k-closest-points-to-origin](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Greedy
 |  |
 | ------- |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -270,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -287,4 +293,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
