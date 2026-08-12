@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0503-next-greater-element-ii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0695-max-area-of-island) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -301,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
