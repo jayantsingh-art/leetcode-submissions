@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0994-rotting-oranges) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Simulation
 |  |
@@ -314,5 +316,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
