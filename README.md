@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0645-set-mismatch) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 ## Simulation
 |  |
@@ -306,5 +309,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
