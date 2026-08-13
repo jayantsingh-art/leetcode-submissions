@@ -23,8 +23,8 @@ public:
     }
     
     double findMedian() {
-        if(maxHeap.size() == minHeap.size()) {
-            return (maxHeap.top() + minHeap.top()) / 2.0;
+        if(minHeap.size() == maxHeap.size()) {
+            return (minHeap.top() + maxHeap.top()) / 2.0;
         } else {
             return maxHeap.top();
         }
