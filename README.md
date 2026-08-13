@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1034-coloring-a-border) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -311,4 +314,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
