@@ -6,6 +6,7 @@ public:
         int level = 1;
 
         if(st.find(endWord) == st.end()) return 0;
+
         q.push(beginWord);
 
         while(!q.empty()) {
@@ -19,9 +20,9 @@ public:
 
                 for(int i = 0; i < word.size(); i++) {
                     char original = word[i];
+
                     for(char ch = 'a'; ch <= 'z'; ch++) {
                         word[i] = ch;
-
                         if(st.find(word) != st.end()) {
                             q.push(word);
                             st.erase(word);
@@ -32,7 +33,6 @@ public:
             }
             level++;
         }
-
         return 0;
     }
 };
