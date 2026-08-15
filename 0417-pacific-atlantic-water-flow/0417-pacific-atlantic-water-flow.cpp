@@ -3,6 +3,7 @@ public:
     vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights) {
         int m = heights.size();
         int n = heights[0].size();
+
         vector<vector<bool>> pacific(m, vector<bool>(n, false));
         vector<vector<bool>> atlantic(m, vector<bool>(n, false));
         vector<vector<int>> ans;
@@ -10,7 +11,7 @@ public:
         for(int i = 0; i < m; i++) {
             DFS(heights, pacific, i, 0);
         }
-        
+
         for(int j = 0; j < n; j++) {
             DFS(heights, pacific, 0, j);
         }
@@ -35,19 +36,26 @@ public:
     }
 
     void DFS(vector<vector<int>>& heights, vector<vector<bool>>& visited, int i, int j) {
-        if(visited[i][j]) {
-            return;
-        }
+        if(visited[i][j]) return;
+
         visited[i][j] = true;
-        cout << i << ", " << j << endl;
-        int directions[4][2] = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
+
+        int directions[4][2] {
+                {1, 0},
+                {-1, 0},
+                {0, 1},
+                {0, -1}
+            };
 
         for(auto dir : directions) {
-            int row = i + dir[0];
-            int col = j + dir[1];
+            int x = i + dir[0];
+            int y = j + dir[1];
 
-            if(row >= 0 && col >= 0 && row < heights.size() && col < heights[0].size() && heights[row][col] >= heights[i][j]) {
-                DFS(heights, visited, row, col);
+            if(x >= 0 && y >= 0 &&
+               x < heights.size() &&
+               y < heights[0].size() &&
+               heights[i][j] <= heights[x][y]) {
+                DFS(heights, visited, x, y);
             }
         }
     }
