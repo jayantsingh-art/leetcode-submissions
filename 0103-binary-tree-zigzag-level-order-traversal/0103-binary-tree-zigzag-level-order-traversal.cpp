@@ -15,29 +15,33 @@ public:
         if(!root) return {};
 
         vector<vector<int>> ans;
-        queue<TreeNode*> q;
+        deque<TreeNode*> dq;
         bool leftToRight = true;
 
-        q.push(root);
+        dq.push_back(root);
 
-        while(!q.empty()) {
-            int size = q.size();
-            vector<int> level(size);
+        while(!dq.empty()) {
+            int size = dq.size();
+            vector<int> level;
 
-            for(int i = 0; i < size; i++) {
-                TreeNode* node = q.front();
-                q.pop();
-
+            while(size--) {
                 if(leftToRight) {
-                    level[i] = node->val;
-                } else {
-                    level[size-1-i] = node->val;
-                    // cout << i << endl;
-                }
+                    TreeNode* node = dq.front();
+                    dq.pop_front();
 
-                if(node->left) q.push(node->left);
-                if(node->right) q.push(node->right);
-                
+                    level.push_back(node->val);
+
+                    if(node->left) dq.push_back(node->left);
+                    if(node->right) dq.push_back(node->right);
+                } else {
+                    TreeNode* node = dq.back();
+                    dq.pop_back();
+
+                    level.push_back(node->val);
+
+                    if(node->right) dq.push_front(node->right);
+                    if(node->left) dq.push_front(node->left);
+                }
             }
             leftToRight = !leftToRight;
             ans.push_back(level);
