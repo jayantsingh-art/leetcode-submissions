@@ -5,7 +5,6 @@ public:
 
         for(int num : nums) {
             pq.push(num);
-
             if(pq.size() > k) pq.pop();
         }
 
