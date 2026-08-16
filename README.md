@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
+| [1302-deepest-leaves-sum](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
+| [1302-deepest-leaves-sum](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1302-deepest-leaves-sum) |
 ## Union-Find
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0113-path-sum-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1302-deepest-leaves-sum](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0113-path-sum-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1302-deepest-leaves-sum](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1302-deepest-leaves-sum) |
 ## Backtracking
 |  |
 | ------- |
