@@ -24,11 +24,12 @@ public:
                 temp->next = curr2;
                 curr2 = curr2->next;
             }
+
             temp = temp->next;
         }
 
         if(curr1) temp->next = curr1;
-        else temp->next = curr2;
+        else temp->next  = curr2;
 
         return dummy.next;
     }
