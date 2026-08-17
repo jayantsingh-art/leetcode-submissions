@@ -13,9 +13,13 @@ public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         ListNode* merged = NULL;
 
-        if(lists.size() == 0) return NULL;
-        if(lists.size() == 1) return lists[0];
-        
+        if(lists.size() == 0) {
+            return NULL;
+        }
+        if(lists.size() == 1) {
+            return lists[0];
+        }
+
         for(int i = 0; i < lists.size(); i++) {
             merged = merge2lists(merged, lists[i]);
         }
@@ -44,6 +48,6 @@ public:
         if(curr1) temp->next = curr1;
         else temp->next = curr2;
 
-        return dummy.next;
+        return dummy.next; 
     }
 };
