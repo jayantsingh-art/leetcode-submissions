@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0645-set-mismatch) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0733-flood-fill) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0733-flood-fill) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1034-coloring-a-border) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0113-path-sum-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0113-path-sum-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1302-deepest-leaves-sum) |
 ## Backtracking
 |  |
