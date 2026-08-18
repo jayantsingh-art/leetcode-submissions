@@ -12,11 +12,10 @@
 class Solution {
 public:
     int minDepth(TreeNode* root) {
-        queue<TreeNode*> q;
-        int level = 1;
-
         if(!root) return 0;
-        
+        int level = 1;
+        queue<TreeNode*> q;
+
         q.push(root);
 
         while(!q.empty()) {
@@ -31,8 +30,10 @@ public:
                 if(node->left) q.push(node->left);
                 if(node->right) q.push(node->right);
             }
+
             level++;
         }
-        return NULL;
+
+        return 0;
     }
 };
