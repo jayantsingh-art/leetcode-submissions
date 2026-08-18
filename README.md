@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0543-diameter-of-binary-tree](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0113-path-sum-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1302-deepest-leaves-sum) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0113-path-sum-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1302-deepest-leaves-sum) |
@@ -337,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1019-next-greater-node-in-linked-list) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
