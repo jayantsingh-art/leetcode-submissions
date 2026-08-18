@@ -10,8 +10,9 @@
 class Solution {
 public:
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        unordered_map<TreeNode*, TreeNode*> mp;
-        buildParent(root, mp);
+        if(!root) return {};
+        unordered_map<TreeNode*, TreeNode*> parent;
+        buildParent(root, parent);
         unordered_set<TreeNode*> visited;
         queue<TreeNode*> q;
         vector<int> ans;
@@ -22,6 +23,8 @@ public:
 
         while(!q.empty()) {
             int size = q.size();
+            vector<int> level;
+
             if(dist == k) break;
 
             while(size--) {
@@ -32,15 +35,13 @@ public:
                     q.push(node->left);
                     visited.insert(node->left);
                 }
-
                 if(node->right && !visited.count(node->right)) {
                     q.push(node->right);
                     visited.insert(node->right);
                 }
-
-                if(mp[node] && !visited.count(mp[node])) {
-                    q.push(mp[node]);
-                    visited.insert(mp[node]);
+                if(parent[node] && !visited.count(parent[node])) {
+                    q.push(parent[node]);
+                    visited.insert(parent[node]);
                 }
             }
             dist++;
@@ -50,11 +51,10 @@ public:
             ans.push_back(q.front()->val);
             q.pop();
         }
-
         return ans;
     }
 
-    void buildParent(TreeNode* root, unordered_map<TreeNode*, TreeNode*>& mp) {
+    void buildParent(TreeNode* root, unordered_map<TreeNode*, TreeNode*>& parent) {
         queue<TreeNode*> q;
         q.push(root);
 
@@ -63,18 +63,12 @@ public:
             q.pop();
 
             if(node->left) {
-                mp[node->left] = node;
+                parent[node->left] = node;
                 q.push(node->left);
             }
-
             if(node->right) {
-                mp[node->right] = node;
+                parent[node->right] = node;
                 q.push(node->right);
-            }
-
-            if(node->left) {
-                mp[node->left] = node;
-                q.push(node->left);
             }
         }
     }
