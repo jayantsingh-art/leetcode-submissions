@@ -23,12 +23,15 @@ public:
     void DFS(TreeNode* root, string path, vector<string>& ans) {
         if(!root) return;
 
-        if(path != "") path += "->";
-        path += to_string(root->val);
+        if(!path.empty()) path += "->";
+        path += to_string(root->val);;
 
-        if(!root->left && !root->right) ans.push_back(path);
+        if(!root->left && !root->right) {
+            ans.push_back(path);
+        }
 
         DFS(root->left, path, ans);
         DFS(root->right, path, ans);
+
     }
 };
