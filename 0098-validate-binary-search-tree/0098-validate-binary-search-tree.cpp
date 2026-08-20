@@ -11,17 +11,18 @@
  */
 class Solution {
 public:
+    bool isValid;
     long prevVal;
-    bool isValid = true;
     bool isValidBST(TreeNode* root) {
+        isValid = true;
         prevVal = LONG_MIN;
+
         helper(root);
 
         return isValid;
     }
 
     void helper(TreeNode* root) {
-        
         if(!root) return;
 
         helper(root->left);
@@ -32,4 +33,6 @@ public:
         prevVal = root->val;
         helper(root->right);
     }
+
+
 };
