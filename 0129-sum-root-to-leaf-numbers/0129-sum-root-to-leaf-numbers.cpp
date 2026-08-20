@@ -12,8 +12,6 @@
 class Solution {
 public:
     int sumNumbers(TreeNode* root) {
-        if(!root) return 0;
-
         return DFS(root, 0);
     }
 
@@ -22,7 +20,7 @@ public:
 
         sum = sum * 10 + root->val;
         if(!root->left && !root->right) return sum;
-
+        
         int left = DFS(root->left, sum);
         int right = DFS(root->right, sum);
 
