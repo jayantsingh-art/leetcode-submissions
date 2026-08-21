@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0938-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0938-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0938-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1302-deepest-leaves-sum) |
 ## Backtracking
 |  |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0938-range-sum-of-bst](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0938-range-sum-of-bst) |
 ## Data Stream
 |  |
 | ------- |
