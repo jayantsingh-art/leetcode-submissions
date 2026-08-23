@@ -12,8 +12,8 @@
 class Solution {
 public:
     vector<string> binaryTreePaths(TreeNode* root) {
-        string path = "";
         vector<string> ans;
+        string path = "";
 
         DFS(root, path, ans);
 
@@ -24,14 +24,12 @@ public:
         if(!root) return;
 
         if(!path.empty()) path += "->";
-        path += to_string(root->val);;
+        path += to_string(root->val);
 
-        if(!root->left && !root->right) {
-            ans.push_back(path);
-        }
+        if(!root->left && !root->right) ans.push_back(path);
 
         DFS(root->left, path, ans);
         DFS(root->right, path, ans);
-
+        
     }
 };
