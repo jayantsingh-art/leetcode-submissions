@@ -10,52 +10,53 @@
 class Solution {
 public:
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        if(!root) return {};
         unordered_map<TreeNode*, TreeNode*> parent;
-        buildParent(root, parent);
-        unordered_set<TreeNode*> visited;
+        findParent(root, parent);
+        unordered_set<TreeNode*> st;
         queue<TreeNode*> q;
         vector<int> ans;
-        int dist = 0;
 
         q.push(target);
-        visited.insert(target);
+        st.insert(target);
 
         while(!q.empty()) {
             int size = q.size();
-            vector<int> level;
 
-            if(dist == k) break;
+            if(k == 0) break;
 
             while(size--) {
                 TreeNode* node = q.front();
                 q.pop();
+                cout << node->val << endl;
 
-                if(node->left && !visited.count(node->left)) {
+                if(node->left && !st.count(node->left)) {
                     q.push(node->left);
-                    visited.insert(node->left);
+                    st.insert(node->left);
                 }
-                if(node->right && !visited.count(node->right)) {
+                if(node->right && !st.count(node->right)) {
                     q.push(node->right);
-                    visited.insert(node->right);
+                    st.insert(node->right);
                 }
-                if(parent[node] && !visited.count(parent[node])) {
+                if(parent[node] && !st.count(parent[node])) {
                     q.push(parent[node]);
-                    visited.insert(parent[node]);
+                    st.insert(parent[node]);
                 }
             }
-            dist++;
+            k--;
         }
 
         while(!q.empty()) {
             ans.push_back(q.front()->val);
             q.pop();
         }
+
         return ans;
     }
 
-    void buildParent(TreeNode* root, unordered_map<TreeNode*, TreeNode*>& parent) {
+    void findParent(TreeNode* root, unordered_map<TreeNode*, TreeNode*>& parent) {
+        if(!root) return;
         queue<TreeNode*> q;
+
         q.push(root);
 
         while(!q.empty()) {
