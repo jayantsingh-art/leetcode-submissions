@@ -17,7 +17,7 @@ public:
 
     int DFS(TreeNode* root, int low, int high) {
         if(!root) return 0;
-
+        // cout << root->val << endl;
         if(root->val < low) {
             return DFS(root->right, low, high);
         }
