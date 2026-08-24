@@ -17,22 +17,20 @@ public:
         isValid = true;
         prevVal = LONG_MIN;
 
-        DFS(root);
+        helper(root);
 
         return isValid;
     }
 
-    void DFS(TreeNode* root) {
+    void helper(TreeNode* root) {
         if(!root) return;
 
-        DFS(root->left);
-
-        if(prevVal >= root->val) {
+        helper(root->left);
+        if(root->val <= prevVal) {
             isValid = false;
             return;
         }
-
         prevVal = root->val;
-        DFS(root->right);
+        helper(root->right);
     }
 };
