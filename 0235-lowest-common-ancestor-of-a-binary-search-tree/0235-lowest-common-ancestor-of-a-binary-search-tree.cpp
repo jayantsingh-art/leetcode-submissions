@@ -11,16 +11,15 @@
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        return DFS(root, p, q);
+        return LCAHelper(root, p, q);
     }
 
-    TreeNode* DFS(TreeNode* root, TreeNode* p, TreeNode* q) {
-
+    TreeNode* LCAHelper(TreeNode* root, TreeNode* p, TreeNode* q) {
         if(root->val < p->val && root->val < q->val) {
-            return DFS(root->right, p, q);
+            return LCAHelper(root->right, p, q);
         }
         if(root->val > p->val && root->val > q->val) {
-            return DFS(root->left, p, q);
+            return LCAHelper(root->left, p, q);
         }
 
         return root;
