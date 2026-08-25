@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0494-target-sum](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0213-house-robber-ii) |
+| [0494-target-sum](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0494-target-sum) |
 | [1162-as-far-from-land-as-possible](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
 ## Design
 |  |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0494-target-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -384,4 +387,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/jayantsingh-art/leetcode-submissions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
