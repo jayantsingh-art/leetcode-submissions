@@ -4,13 +4,9 @@ public:
         int n = nums.size();
         vector<int> ans1(n), ans2(n);
 
-        if(n == 1) {
-            return nums[0];
-        }
-
-        if(n == 2) {
-            return max(nums[0], nums[1]);
-        }
+        if(n == 1) return nums[0];
+        if(n == 2) return max(nums[0], nums[1]);
+        
         ans1[0] = nums[0];
         ans1[1] = max(nums[0], nums[1]);
 
