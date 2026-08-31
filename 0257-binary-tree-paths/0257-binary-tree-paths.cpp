@@ -12,8 +12,8 @@
 class Solution {
 public:
     vector<string> binaryTreePaths(TreeNode* root) {
-        vector<string> ans;
         string path = "";
+        vector<string> ans;
 
         DFS(root, path, ans);
 
@@ -30,6 +30,5 @@ public:
 
         DFS(root->left, path, ans);
         DFS(root->right, path, ans);
-        
     }
 };
