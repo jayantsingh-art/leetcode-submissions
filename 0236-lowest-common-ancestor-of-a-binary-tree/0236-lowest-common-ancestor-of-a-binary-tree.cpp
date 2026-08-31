@@ -12,12 +12,11 @@ public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
         return helper(root, p, q);
     }
-    
+
     TreeNode* helper(TreeNode* root, TreeNode* p, TreeNode* q) {
         if(!root) return NULL;
+        if(root->val == p->val || root->val == q->val) return root;
 
-        if(root == p || root == q) return root;
-        
         TreeNode* left = helper(root->left, p, q);
         TreeNode* right = helper(root->right, p, q);
 
