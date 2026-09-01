@@ -12,22 +12,21 @@
 class Solution {
 public:
     int rangeSumBST(TreeNode* root, int low, int high) {
-        return DFS(root, low, high);
+        int sum = 0;
+        helper(root, low, high, sum);
+        return sum;
     }
 
-    int DFS(TreeNode* root, int low, int high) {
-        if(!root) return 0;
-        // cout << root->val << endl;
-        if(root->val < low) {
-            return DFS(root->right, low, high);
+    void helper(TreeNode* root, int low, int high, int& sum) {
+        if(!root) return;
+
+        if(root->val >= low && root->val <= high) {
+            sum += root->val;
+            helper(root->left, low, high, sum);
+            helper(root->right, low, high, sum);
         }
 
-        if(root->val > high) {
-            return DFS(root->left, low, high);
-        }
-
-        return root->val + 
-                DFS(root->left, low, high) + 
-                DFS(root->right, low, high);
+        if(root->val < low) helper(root->right, low, high, sum);
+        if(root->val > high) helper(root->left, low, high, sum);
     }
 };
