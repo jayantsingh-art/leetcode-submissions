@@ -11,17 +11,26 @@
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        return LCAHelper(root, p, q);
+        return helper(root, p, q);
     }
 
-    TreeNode* LCAHelper(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(root->val < p->val && root->val < q->val) {
-            return LCAHelper(root->right, p, q);
-        }
-        if(root->val > p->val && root->val > q->val) {
-            return LCAHelper(root->left, p, q);
-        }
+    TreeNode* helper(TreeNode* root, TreeNode* p, TreeNode* q) {
+        if(!root) return NULL;
+        if(root->val == p->val || root->val == q->val) return root;
 
-        return root;
+        if(root->val < p->val && root->val < q->val) 
+            helper(root->right, p, q);
+
+        if(root->val > p->val && root->val > q->val) 
+            helper(root->left, p, q);
+
+        TreeNode* left = helper(root->left, p, q);
+        TreeNode* right = helper(root->right, p, q);
+
+        if(left && right) return root;
+        if(left) return left;
+        if(right) return right;
+
+        return NULL;
     }
 };
