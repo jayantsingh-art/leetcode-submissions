@@ -15,22 +15,12 @@ public:
     }
 
     TreeNode* helper(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(!root) return NULL;
-        if(root->val == p->val || root->val == q->val) return root;
-
         if(root->val < p->val && root->val < q->val) 
-            helper(root->right, p, q);
+            return helper(root->right, p, q);
 
         if(root->val > p->val && root->val > q->val) 
-            helper(root->left, p, q);
+            return helper(root->left, p, q);
 
-        TreeNode* left = helper(root->left, p, q);
-        TreeNode* right = helper(root->right, p, q);
-
-        if(left && right) return root;
-        if(left) return left;
-        if(right) return right;
-
-        return NULL;
+        return root;
     }
 };
