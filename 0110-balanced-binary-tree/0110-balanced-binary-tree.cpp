@@ -12,7 +12,7 @@
 class Solution {
 public:
     bool isBalanced(TreeNode* root) {
-        return height(root) != -1;
+        return height(root) == -1 ? false : true;
     }
 
     int height(TreeNode* root) {
