@@ -12,15 +12,15 @@
 class Solution {
 public:
     int sumNumbers(TreeNode* root) {
-        return DFS(root, 0);
+        return helper(root, 0);
     }
 
-    int DFS(TreeNode* root, int sum) {
+    int helper(TreeNode* root, int sum) {
         if(!root) return 0;
 
         sum = sum * 10 + root->val;
         if(!root->left && !root->right) return sum;
 
-        return DFS(root->left, sum) + DFS(root->right, sum);
+        return helper(root->left, sum) + helper(root->right, sum);
     }
 };
