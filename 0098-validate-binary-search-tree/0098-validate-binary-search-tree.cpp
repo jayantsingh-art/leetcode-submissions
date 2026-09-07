@@ -11,25 +11,30 @@
  */
 class Solution {
 public:
+    long prevVal;
+    bool isValid;
+
     bool isValidBST(TreeNode* root) {
-        bool isValid = true;
-        long prevVal = LONG_MIN;
-        DFS(root, isValid, prevVal);
+        prevVal = LONG_MIN;
+        isValid = true;
+
+        helper(root);
 
         return isValid;
     }
 
-    void DFS(TreeNode* root, bool& isValid, long& prevVal) {
+    void helper(TreeNode* root) {
         if(!root) return;
 
-        DFS(root->left, isValid, prevVal);
+        helper(root->left);
 
         if(prevVal >= root->val) {
             isValid = false;
             return;
         }
         prevVal = root->val;
+
+        helper(root->right);
         
-        DFS(root->right, isValid, prevVal);
     }
 };
