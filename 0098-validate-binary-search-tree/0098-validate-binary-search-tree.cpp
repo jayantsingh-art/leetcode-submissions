@@ -13,7 +13,6 @@ class Solution {
 public:
     long prevVal;
     bool isValid;
-
     bool isValidBST(TreeNode* root) {
         prevVal = LONG_MIN;
         isValid = true;
@@ -28,13 +27,12 @@ public:
 
         helper(root->left);
 
-        if(prevVal >= root->val) {
+        if(root->val <= prevVal) {
             isValid = false;
             return;
         }
         prevVal = root->val;
 
         helper(root->right);
-        
     }
 };
