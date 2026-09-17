@@ -20,9 +20,9 @@ public:
 
         if(root->val < low) return helper(root->right, low, high);
         if(root->val > high) return helper(root->left, low, high);
-        
-        return root->val + 
-            helper(root->left, low, high) +
-            helper(root->right, low, high);
+
+        return root->val 
+                + helper(root->left, low, high)
+                + helper(root->right, low, high);
     }
 };
